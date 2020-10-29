@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/Assignment-17-Employee-Directory/static/js/app.3de76397.chunk.js",
+    "app.js.map": "/Assignment-17-Employee-Directory/static/js/app.3de76397.chunk.js.map",
+    "runtime~app.js": "/Assignment-17-Employee-Directory/static/js/runtime~app.5d493baa.js",
+    "runtime~app.js.map": "/Assignment-17-Employee-Directory/static/js/runtime~app.5d493baa.js.map",
+    "static/js/2.54d078b2.chunk.js": "/Assignment-17-Employee-Directory/static/js/2.54d078b2.chunk.js",
+    "static/js/2.54d078b2.chunk.js.map": "/Assignment-17-Employee-Directory/static/js/2.54d078b2.chunk.js.map",
+    "favicon-16.png": "/Assignment-17-Employee-Directory/favicon-16.png",
+    "favicon-32.png": "/Assignment-17-Employee-Directory/favicon-32.png",
+    "favicon.ico": "/Assignment-17-Employee-Directory/favicon.ico",
+    "index.html": "/Assignment-17-Employee-Directory/index.html",
+    "manifest.json": "/Assignment-17-Employee-Directory/manifest.json",
+    "serve.json": "/Assignment-17-Employee-Directory/serve.json",
+    "static/js/2.54d078b2.chunk.js.LICENSE.txt": "/Assignment-17-Employee-Directory/static/js/2.54d078b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.5d493baa.js",
+    "static/js/2.54d078b2.chunk.js",
+    "static/js/app.3de76397.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/Assignment-17-Employee-Directory/expo-service-worker.js",{scope:"/Assignment-17-Employee-Directory/"}).then((function(e){})).catch((function(e){console.info("Failed to register service-worker",e)}))}));
